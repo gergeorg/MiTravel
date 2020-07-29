@@ -5,6 +5,7 @@
 @import "_global.css";
 @import "_overall.css";
 
+
 /* components imports */
 @import "./components/_header.css";
 @import "./components/_first.css";
@@ -14,3 +15,5 @@
 @import "./components/_newsletter.css";
 @import "./components/_inspirations.css";
 @import "./components/_footer.css";
+
+@import "_media.css";
